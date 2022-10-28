@@ -1,0 +1,111 @@
+html, body {
+  background-image: url(leaf.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  ul{
+    list-style: none;
+    float:right;
+    
+  }
+  li{
+    display:inline-block;
+    margin: 20px;
+    margin-top: auto;
+    color: white;
+  }
+  a:link{
+    color: white;
+    text-decoration: none;
+  }
+  a:visited{
+    color: white;
+    text-decoration: none
+  }
+  a:hover{
+    color: white;
+    text-decoration: underline;
+    font-size: 20px ;
+  }
+  h1{
+      float: left;
+      margin-top: auto;
+      color: blue;
+  }
+h1:hover{
+  float: left;
+  margin-top: auto;
+  color: red;
+  font-size: 39px;
+}
+
+
+#none{
+  margin: auto;
+  width: 500px;
+  text-align: center;
+  clear: both;
+  color: white;
+  
+}
+h3{
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.img{
+  width: 200px;
+}
+
+.gmail{
+  width: 80px;
+  border-radius: 85px;
+  height: 80px;
+  margin: 50px ;
+}
+#con{
+  clear: both;
+  margin: auto;
+  border: solid 1px;
+  border-radius: 20px;
+  width: 400px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+.gmail:hover{
+  width: 100px;
+  border-radius: 85px;
+  height: 100px;
+  margin: 50px ;
+}
+h2{
+  clear: both;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+#a{
+  text-align: center;
+  border: solid 1px;
+  font-size: 20px;
+  width:200px ;
+  margin: auto;
+  background-color: rgb(72, 72, 240);
+  border-radius: 15px;
+  margin-top: 50px;
+}
+#a:hover{
+  text-align: center;
+  border: solid 1px;
+  font-size: 20px;
+  width: 300px ;
+  margin: auto;
+  background-color: rgb(72, 72, 240);
+  height: 80px;
+}
+#name{
+  text-decoration: none;
+}
